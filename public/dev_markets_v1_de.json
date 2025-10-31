@@ -1123,5 +1123,55 @@
             { "startTime": "2025-11-29T15:00:00+01:00", "endTime": "2025-11-29T21:00:00+01:00", "status": "OPEN" },
             { "startTime": "2025-11-30T11:00:00+01:00", "endTime": "2025-11-30T18:00:00+01:00", "status": "OPEN" }
         ]
+    },
+    {
+        "id": 36,
+        "name": "Sürther Weihnachtsmarkt",
+        "latitude": 50.861928494937644,
+        "longitude": 7.00687860935856,
+        "street": "Sürther Marktplatz",
+        "postalCode": "50999",
+        "city": "Köln",
+        "district": "Sürth",
+        "website": "https://weihnachtsmarkt-magazin.de/maerkte/weihnachtsmarkt-koeln-suerth/",
+        "startDate": "2025-12-06T14:00:00+01:00",
+        "endDate": "2025-12-07T19:00:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-12-06T14:00:00+01:00", "endTime": "2025-12-06T22:00:00+01:00", "status": "OPEN" },
+            { "startTime": "2025-12-07T12:00:00+01:00", "endTime": "2025-12-07T19:00:00+01:00", "status": "OPEN" }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Dünnwalder Adventsmarkt",
+        "latitude": 50.998939979491546,
+        "longitude": 7.041332196719306,
+        "street": "Amselstraße",
+        "postalCode": "51069",
+        "city": "Köln",
+        "district": "Dünnwald",
+        "website": "https://www.duennwalder.de/news",
+        "startDate": "2025-11-30T12:00:00+01:00",
+        "endDate": "2025-11-30T18:00:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-30T12:00:00+01:00", "endTime": "2025-11-30T18:00:00+01:00", "status": "OPEN" }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Delbrücker Adventsmarkt",
+        "latitude": 50.9745951640293,
+        "longitude": 7.075829668139542,
+        "street": "Dellbrücker Hauptstraße",
+        "postalCode": "51069",
+        "city": "Köln",
+        "district": "Dellbrück",
+        "website": "https://www.stadt-delbrueck.de/de/aktuelles/veranstaltungen/termine/3453453775.php",
+        "startDate": "2025-11-2915:30:00+01:00",
+        "endDate": "2025-11-30T19:00:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-29T15:30:00+01:00", "endTime": "2025-11-29T21:00:00+01:00", "status": "OPEN" },
+            { "startTime": "2025-11-30T11:30:00+01:00", "endTime": "2025-11-30T19:00:00+01:00", "status": "OPEN" }
+        ]
     }
 ]

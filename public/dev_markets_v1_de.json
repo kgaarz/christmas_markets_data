@@ -583,6 +583,7 @@
         "street": "Siebachstraße 85",
         "postalCode": "50733",
         "city": "Köln",
+        "district": "Nippes",
         "phoneNumber": "02219731030",
         "website": "https://www.lutherkirche-nippes.de/termin/weihnachtsmarkt-24/",
         "startDate": "2025-12-13T12:00:00+01:00",
@@ -918,6 +919,7 @@
         "postalCode": "50667",
         "city": "Köln",
         "phoneNumber": "0221955645469",
+        "district": "Altstadt-Nord",
         "website": "https://www.heinzels-wintermaerchen.de/de/homepage/",
         "startDate": "2025-11-24T11:00:00+01:00",
         "endDate": "2025-12-23T22:00:00+01:00",
@@ -1050,17 +1052,6 @@
   ]
 },
 {
-  "id": 31,
-  "name": "Weihnachtsmarkt in Mülheim",
-  "latitude": 50.96157781409896,
-  "longitude": 7.005282076731805,
-  "street": "Wiener Platz",
-  "houseNumber": "4",
-  "postalCode": "51065",
-  "city": "Köln",
-  "district": "Mülheim"
-},
-{
         "id": 32,
         "name": "Porzer Weihnachtsmarkt mit Wunschbaum-Aktion",
         "latitude": 50.8849357008831,
@@ -1183,7 +1174,7 @@
         "houseNumber": "14",
         "postalCode": "50969",
         "city": "Köln",
-        "district": "Dellbrück",
+        "district": "Zollstock",
         "website": "https://www.facebook.com/groups/koelnerstadtteilliebe/posts/1939112796645364/",
         "startDate": "2025-12-06T14:00:00+01:00",
         "endDate": "2025-12-07T18:00:00+01:00",

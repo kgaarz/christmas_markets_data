@@ -1048,5 +1048,16 @@
     { "startTime": "2025-12-22T16:00:00+01:00", "endTime": "2025-12-22T22:00:00+01:00", "status": "OPEN" },
     { "startTime": "2025-12-23T16:00:00+01:00", "endTime": "2025-12-23T22:00:00+01:00", "status": "OPEN" }
   ]
+},
+{
+  "id": 31,
+  "name": "Weihnachtsmarkt in Mülheim",
+  "latitude": 50.96157781409896,
+  "longitude": 7.005282076731805,
+  "street": "Wiener Platz",
+  "houseNumber": "4",
+  "postalCode": "51065",
+  "city": "Köln",
+  "district": "Mülheim"
 }
 ]

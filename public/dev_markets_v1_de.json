@@ -953,5 +953,20 @@
             { "startTime": "2025-12-22T11:00:00+01:00", "endTime": "2025-12-22T22:00:00+01:00", "status": "OPEN" },
             { "startTime": "2025-12-23T11:00:00+01:00", "endTime": "2025-12-23T22:00:00+01:00", "status": "OPEN" }
         ]
+    },
+    {
+        "id": 28,
+        "name": "Max & Moritz Weihnachtsmarkt",
+        "latitude": 50.957258971905055,
+        "longitude": 6.919028105854602,
+        "street": "Lenauplatz",
+        "postalCode": "50825",
+        "city": "Köln",
+        "website": "https://www.wirinneuehrenfeld.de/2025/10/28/max-moritz-markt-2024/",
+        "startDate": "2025-11-28T16:30:00+01:00",
+        "endDate": "2025-12-23T21:30:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-28T16:30:00+01:00", "endTime": "2025-11-28T21:30:00+01:00", "status": "OPEN" }
+        ]
     }
 ]

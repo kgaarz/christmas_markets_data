@@ -1059,5 +1059,51 @@
   "postalCode": "51065",
   "city": "Köln",
   "district": "Mülheim"
-}
+},
+{
+        "id": 32,
+        "name": "Porzer Weihnachtsmarkt mit Wunschbaum-Aktion",
+        "latitude": 50.8849357008831,
+        "longitude": 7.058611868878969,
+        "street": "Josefstraße",
+        "houseNumber": "12",
+        "postalCode": "51143",
+        "city": "Köln",
+        "district": "Porz",
+        "phoneNumber": "015734669081",
+        "website": "https://www.porzer-weihnachtsmarkt.de/",
+        "startDate": "2025-12-12T00:00:00+01:00",
+        "endDate": "2025-12-14T00:00:00+01:00"
+    },
+    {
+        "id": 33,
+        "name": "Pfadfinder- Weihnacht in Rondorf",
+        "latitude": 50.87400549821053,
+        "longitude": 6.9589233884726935,
+        "street": "Hahnenstraße",
+        "houseNumber": "21",
+        "postalCode": "50997",
+        "city": "Köln",
+        "district": "Rondorf",
+        "website": "https://www.pfadfinder-rondorf.com/event-details/weihnachtsmarkt-2025",
+        "startDate": "2025-11-28T00:00:00+01:00",
+        "endDate": "2025-11-30T00:00:00+01:00"
+    },
+    {
+        "id": 34,
+        "name": "Holweider Adventsmarkt",
+        "latitude": 50.9685301369714,
+        "longitude": 7.045130346440189,
+        "street": "Maria-Himmelfahrt-Straße",
+        "postalCode": "51067",
+        "city": "Köln",
+        "district": "Holweide",
+        "website": "https://www.holweide-bv.de/",
+        "startDate": "2025-11-29T11:00:00+01:00",
+        "endDate": "2025-11-30T19:00:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-29T11:00:00+01:00", "endTime": "2025-11-29T20:00:00+01:00", "status": "OPEN" },
+            { "startTime": "2025-11-30T11:00:00+01:00", "endTime": "2025-11-30T19:00:00+01:00", "status": "OPEN" }
+        ]
+    }
 ]

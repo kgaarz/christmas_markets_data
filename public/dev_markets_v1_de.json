@@ -1105,5 +1105,23 @@
             { "startTime": "2025-11-29T11:00:00+01:00", "endTime": "2025-11-29T20:00:00+01:00", "status": "OPEN" },
             { "startTime": "2025-11-30T11:00:00+01:00", "endTime": "2025-11-30T19:00:00+01:00", "status": "OPEN" }
         ]
+    },
+    {
+        "id": 35,
+        "name": "Weihnachtsmarkt in Köln-Weiß",
+        "latitude": 50.87288642242331,
+        "longitude": 7.03199007693682,
+        "street": "Kirchpl.",
+        "houseNumber": "2",
+        "postalCode": "50999",
+        "city": "Köln",
+        "district": "Weiß",
+        "website": "https://mein-weiss.de/",
+        "startDate": "2025-11-29T15:00:00+01:00",
+        "endDate": "2025-11-30T18:00:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-29T15:00:00+01:00", "endTime": "2025-11-29T21:00:00+01:00", "status": "OPEN" },
+            { "startTime": "2025-11-30T11:00:00+01:00", "endTime": "2025-11-30T18:00:00+01:00", "status": "OPEN" }
+        ]
     }
 ]

@@ -1111,8 +1111,12 @@
         "city": "Köln",
         "district": "Rondorf",
         "website": "https://www.pfadfinder-rondorf.com/event-details/weihnachtsmarkt-2025",
-        "startDate": "2025-11-28T00:00:00+01:00",
-        "endDate": "2025-11-30T00:00:00+01:00"
+        "startDate": "2025-11-28T15:00:00+01:00",
+        "endDate": "2025-11-29T17:00:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-28T15:00:00+01:00", "endTime": "2025-11-28T22:00:00+01:00", "status": "OPEN" },
+            { "startTime": "2025-11-29T12:00:00+01:00", "endTime": "2025-11-29T17:00:00+01:00", "status": "OPEN" }
+        ]
     },
     {
         "id": 34,

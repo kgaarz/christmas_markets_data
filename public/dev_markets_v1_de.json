@@ -1443,5 +1443,51 @@
             { "startTime": "2025-12-20T14:00:00+01:00", "endTime": "2025-12-20T22:00:00+01:00", "status": "OPEN" },
             { "startTime": "2025-12-21T14:00:00+01:00", "endTime": "2025-12-21T22:00:00+01:00", "status": "OPEN" }
         ]
+    },
+    {
+        "id": 44,
+        "name": "Mülheimer Weihnachtsmarkt",
+        "latitude": 50.96165893360549,
+        "longitude": 7.005308455388552,
+        "street": "Wiener Platz",
+        "postalCode": "51065",
+        "city": "Köln",
+        "district": "Mülheim",
+        "startDate": "2025-11-17T00:00:00+01:00",
+        "endDate": "2025-12-22T00:00:00+01:00"
+    },
+    {
+        "id": 45,
+        "name": "Adventsmarkt der guten Nachbarschaft",
+        "latitude": 50.98064817894295,
+        "longitude": 6.95018291306031,
+        "street": "Derfflinger Straße",
+        "houseNumber": "9",
+        "postalCode": "50737",
+        "city": "Köln",
+        "district": "Weidenpesch",
+        "website": "https://begegnungsgemeinde.de/adventsmarkt-30-11-2025-16-uhr-erloeserkirche/",
+        "startDate": "2025-11-30T15:00:00+01:00",
+        "endDate": "2025-11-30T17:30:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-30T15:00:00+01:00", "endTime": "2025-11-30T17:30:00+01:00", "status": "OPEN" }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Adventsbasar für Klein & Groß",
+        "latitude": 50.91107746537372,
+        "longitude": 6.9890179995889365,
+        "street": "Poller Hauptstraße",
+        "houseNumber": "26",
+        "postalCode": "51105",
+        "city": "Köln",
+        "district": "Poll",
+        "website": "https://www.kirche-deutz-poll.de/aktuelles/veranstaltungen/detail_veranstaltungen/Adventsbasar-fuer-Klein-Gross-2025.11.23/?instancedate=1763890200000",
+        "startDate": "2025-11-23T10:30:00+01:00",
+        "endDate": "2025-11-23T17:00:00+01:00",
+        "openingTime": [
+            { "startTime": "2025-11-23T10:30:00+01:00", "endTime": "2025-11-23T17:00:00+01:00", "status": "OPEN" }
+        ]
     }
 ]
